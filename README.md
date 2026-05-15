@@ -3,8 +3,21 @@
 # Lab06: Comunicación UART con PIC18F45K22
 
 ## Integrantes
+* [Joused Danilo Forero Rodriguez](https://github.com/jouseddanilo)
+* [Laura Ximena Rojas Pachon](https://github.com/LauXRS)
+## INTRODUCCION
+La práctica realizada se centra en la configuración y uso del módulo UART (Universal Asynchronous Receiver/Transmitter) en el microcontrolador PIC18F45K22. El objetivo principal es establecer una comunicación serial asíncrona entre el microcontrolador y un terminal conectado a través de un conversor USB-UART, permitiendo la transmisión y recepción de datos.
+## MATERIALES
+* Microcontrolador PIC18F45K22
+* Programador/debugger PICkit 3/4.
+* Fuente de alimentación (o PICkit 3/4).
+* Conversor USB a serial UART.
+## Objetivos
+* Configurar el módulo UART en un microcontrolador PIC para permitir la comunicación serial.
+* Transmitir datos a través del UART desde el PIC hacia un terminal serial.
+* Implementar funciones de transmisión y recepción de datos a través de UART.
+* Visualizar los datos recibidos en el terminal y comprender el proceso de transmisión asíncrona.
 
-## Documentación
 
 ## Diagramas
 
