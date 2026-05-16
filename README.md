@@ -20,8 +20,12 @@ La práctica realizada se centra en la configuración y uso del módulo UART (Un
 ## PROCEDIMIENTO
 Para verificar la adecuada comunicación, se utilizaron diferentes herramientas
 1. PuTTY: Conexión a través del puerto serial configurado a 9600 baudios.
-2. Script de Python:
-
-## Diagramas
-
+2. Script de Python: Para visualizar datos en tiempo real utilizando la libreria matplotlib.
 ## Evidencias de implementación
+<img width="779" height="568" alt="WhatsApp Image 2026-05-15 at 19 34 14" src="https://github.com/user-attachments/assets/df606fbb-21e6-46cb-902a-965451db5903" />
+
+## RESULTADOS
+Durante la práctica, se logró establecer una comunicación exitosa entre el PIC y el terminal. Los datos enviados desde el microcontrolador fueron visualizados correctamente en el software de terminal, confirmando el funcionamiento del módulo UART.
+## CONCLUSIONES
+La práctica permitió comprender el funcionamiento del módulo UART en un microcontrolador PIC, así como la importancia de la configuración adecuada de sus parámetros para lograr una comunicación efectiva. La implementación de funciones para la transmisión y recepción de datos facilita la interacción entre dispositivos, siendo fundamental en aplicaciones de sistemas embebidos.
+
