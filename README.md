@@ -17,7 +17,10 @@ La práctica realizada se centra en la configuración y uso del módulo UART (Un
 * Transmitir datos a través del UART desde el PIC hacia un terminal serial.
 * Implementar funciones de transmisión y recepción de datos a través de UART.
 * Visualizar los datos recibidos en el terminal y comprender el proceso de transmisión asíncrona.
-
+## PROCEDIMIENTO
+Para verificar la adecuada comunicación, se utilizaron diferentes herramientas
+1. PuTTY: Conexión a través del puerto serial configurado a 9600 baudios.
+2. Script de Python:
 
 ## Diagramas
 
